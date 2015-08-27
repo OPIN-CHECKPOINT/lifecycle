@@ -1,4 +1,4 @@
-name = Workflow
+name = Lifecycle
 core = 7.x
 package = Checkpoint
 project = Checkpoint
